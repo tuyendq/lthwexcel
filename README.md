@@ -6,9 +6,6 @@
 - DATE
 - LOGICAL 
 
-COUNTA stands for Count All (count all non-blank cells)
-COUNT: count non-blank number/date cells
-
 ISNUMBER(cell) :   
 ISTEXT(cell) :  
 ISDATE(cell) :  
@@ -20,4 +17,5 @@ T() : Convert to TEXT
 TO_PERCENT() :  
 CONVERT() :  
 
-
+COUNTA stands for Count All (count all non-blank cells)  
+COUNT: count non-blank number/date cells  
