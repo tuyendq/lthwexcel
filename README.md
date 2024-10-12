@@ -17,3 +17,5 @@ ISURL() :
 ISFORMULA() :  
 N(cell) : COnvert to NUMBER  
 T() : Convert to TEXT  
+TO_PERCENT() :  
+
