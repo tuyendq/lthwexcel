@@ -11,5 +11,9 @@ COUNT: count non-blank number/date cells
 
 ISNUMBER(cell) :   
 ISTEXT(cell) :  
+ISDATE(cell) :  
+ISLOGICAL(cell) :  
+ISURL() :  
+ISFORMULA() :  
 N(cell) : COnvert to NUMBER  
 T() : Convert to TEXT  
