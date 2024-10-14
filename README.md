@@ -25,3 +25,11 @@ NOT()
 AND()  
 OR()  
 
+IF()  
+IFS()  
+SWITCH()  
+
+ISBLANK()  
+COUNTBLANK()  
+
+
