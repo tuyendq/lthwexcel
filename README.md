@@ -31,5 +31,10 @@ SWITCH()
 
 ISBLANK()  
 COUNTBLANK()  
+NA()  
+ISERROR()  
+ISERR()  
+
+
 
 
