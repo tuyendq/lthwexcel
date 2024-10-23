@@ -1,10 +1,13 @@
 # Learn the Hard Way Microsoft Excel
 
-4 types of data:
+## 4 common types of data:
 - TEXT
 - NUMBER
 - DATE
-- LOGICAL 
+- LOGICAL
+
+## 12 categories of built-in functions
+
 
 ISNUMBER(cell) :   
 ISTEXT(cell) :  
