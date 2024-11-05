@@ -1,5 +1,7 @@
 # Learn the Hard Way Microsoft Excel
 
+1048576 (2^20) rows x 16384 (2^14) columns 
+
 ## 4 common types of data:
 - TEXT
 - NUMBER
